@@ -26,7 +26,7 @@ if ($Operation === "+") {
 
     if (is_numeric($getal1)) {
     } else {
-        echo ($getal1 . "is geen getal");
+        echo ($getal1 . " is geen getal");
         exit;
     }
 
@@ -35,7 +35,7 @@ if ($Operation === "+") {
 
     if (is_numeric($getal2)) {
     } else {
-        echo ($getal2 . "is geen getal");
+        echo ($getal2 . " is geen getal");
         exit;
     }
 
@@ -49,7 +49,7 @@ if ($Operation === "-") {
 
     if (is_numeric($getal1)) {
     } else {
-        echo ($getal1 . "is geen getal");
+        echo ($getal1 . " is geen getal");
         exit;
     }
 
@@ -57,7 +57,7 @@ if ($Operation === "-") {
 
     if (is_numeric($getal2)) {
     } else {
-        echo ($getal2 . "is geen getal");
+        echo ($getal2 . " is geen getal");
         exit;
     }
 
@@ -71,7 +71,7 @@ if ($Operation === "%") {
 
     if (is_numeric($getal1)) {
     } else {
-        echo ($getal1 . "is geen getal");
+        echo ($getal1 . " is geen getal");
         exit;
     }
 
@@ -79,7 +79,7 @@ if ($Operation === "%") {
 
     if (is_numeric($getal2)) {
     } else {
-        echo ($getal2 . "is geen getal");
+        echo ($getal2 . " is geen getal");
         exit;
     }
 
